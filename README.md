@@ -1,7 +1,7 @@
 # Hello, I'm **EnderHDMC**
 
 - Currently working on whatever tickles my fancy
-- Delving into deep into the depths of software
+- And delving deep into the depths of software
 - Enjoy working on tools that make life easier
 
 ## Projects

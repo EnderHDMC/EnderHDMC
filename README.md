@@ -4,8 +4,12 @@
 - And delving deep into the depths of software
 - Enjoy working on tools that make life easier
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EnderHDMC&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/EnderHDMC)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EnderHDMC&layout=donut&theme=transparent)](https://en.wikipedia.org/wiki/Toki_Pona)
+
 ## Projects
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=EnderHDMC&repo=MHWISaveEditor)](https://github.com/EnderHDMC/MHWISaveEditor)
+[![Repo Stats](https://github-stats-extended.vercel.app/api/pin/?username=EnderHDMC&repo=MHWISaveEditor)](https://github.com/EnderHDMC/MHWISaveEditor)
 
 ## Tech
 <!--
